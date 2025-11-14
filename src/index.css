@@ -2,7 +2,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 /* Estilos base globales para toda la app */
 body {
   /* Fondo gris claro, tipografía sans, color de texto base */
