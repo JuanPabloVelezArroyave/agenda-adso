@@ -17,7 +17,7 @@ export default function ContactoCard({ nombre, telefono, correo, etiqueta, onEli
 
         {/* Correo */}
         <p className="text-gray-600 text-sm flex items-center gap-2">
-          <span className="text-purple-500 text-lg">✉</span>
+          <span className="text-purple-500 text-lg">✉️</span>
           {correo}
         </p>
 
@@ -36,6 +36,7 @@ export default function ContactoCard({ nombre, telefono, correo, etiqueta, onEli
       >
         Eliminar
       </button>
-  </div>
-);
+    </div>
+  );
 }
+  

@@ -1,18 +1,11 @@
 {
   "contactos": [
     {
-      "id": "f3a8",
+      "id": "03de",
       "nombre": "Juan Pablo Vélez",
       "telefono": "0123456789",
       "correo": "direcciondelcorreo@hotmail.com",
       "etiqueta": "admin"
-    },
-    {
-      "id": "94f6",
-      "nombre": "Simón patiño",
-      "telefono": "1234567890",
-      "correo": "direcciondelcorreo@hotmail.com",
-      "etiqueta": "user"
     }
   ]
 }
