@@ -6,6 +6,13 @@
       "telefono": "0123456789",
       "correo": "direcciondelcorreo@hotmail.com",
       "etiqueta": "admin"
+    },
+    {
+      "id": "5ada",
+      "nombre": "simón patiño",
+      "telefono": "0123456789",
+      "correo": "direcciondelcorreo@hotmail.com",
+      "etiqueta": "user"
     }
   ]
 }
