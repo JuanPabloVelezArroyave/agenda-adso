@@ -8,11 +8,11 @@
       "etiqueta": "admin"
     },
     {
-      "id": "5ada",
       "nombre": "simón patiño",
-      "telefono": "0123456789",
+      "telefono": "9876543210",
       "correo": "direcciondelcorreo@hotmail.com",
-      "etiqueta": "user"
+      "etiqueta": "user",
+      "id": "5ada"
     }
   ]
 }
